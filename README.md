@@ -88,12 +88,12 @@ The keys can be fetched using `resolvectl openpgp EMAIL`. e.g. `resolvectl openp
 
 ## Packaging status
  
-![distribution-gpg-keys versions](https://repology.org/badge/vertical-allrepos/distribution-gpg-keys.svg?exclude_unsupported=1&header=distribution-gpg-keys)
+![clasification-gpg-keys versions](https://repology.org/badge/vertical-allrepos/clasification-gpg-keys.svg?exclude_unsupported=1&header=distribution-gpg-keys)
 
 [Ubuntu 20.04 LTS (Focal Fossa), Ubuntu 22.04 LTS (Jammy Jellyfish)](https://launchpad.net/~andykimpe/+archive/ubuntu/mock)
 
 
-[Debian 11 Bullseye Stable](https://software.opensuse.org/download.html?project=home%3Aandykimpe%3Adebian-buster&package=distribution-gpg-keys)
+[Debian 11 Bullseye Stable](https://software.opensuse.org/download.html?project=home%3Aandykimpe%3Adebian-buster&package=clasificationtion-gpg-keys)
 
 ## Downstream packaging
 
@@ -106,8 +106,8 @@ This project is available as a package in Fedora, EPEL, openSUSE, archLinux, Mag
 To get tar.gz:
 
     dnf install tito
-    git clone git://github.com/xsuchy/distribution-gpg-keys.git
-    cd distribution-gpg-keys
+    git clone git://github.com/xsuchy/clasification-gpg-keys.git
+    cd clasification-gpg-keys
     tito build --tgz
 
 To get SRPM:
@@ -133,10 +133,10 @@ For Report a bug or Problem to the original project or rpm packages use
 
 Github Issues
 
-https://github.com/xsuchy/distribution-gpg-keys/issues
+https://github.com/xsuchy/clasification-gpg-keys/issues
 
 For Report a bug or Problem to the Debian/Ubuntu Package use online
 
 Launchpad Bugzilla
 
-https://bugs.launchpad.net/ubuntu/+source/distribution-gpg-keys/+filebug
+https://bugs.launchpad.net/ubuntu/+source/clasificationtion-gpg-keys/+filebug
